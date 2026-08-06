@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "Monext",
             url: "https://github.com/Monext/monext-ios-sdk/releases/download/1.0.8/Monext-1.0.8.zip",
-            checksum: "0528c6841b20948834406940941cb28212eb850035b13c927b9d29afa459aed0"
+            checksum: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         ),
         .target(
             name: "MonextWrapper",
